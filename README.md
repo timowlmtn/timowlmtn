@@ -37,10 +37,11 @@ May 2023 – March 2025 | Remote
 **Senior Software Engineer**  
 October 2021 – April 2023 | Boston, MA
 
-- Extracted real-time custom JSON data and CSV into a data lake from Redshift and Legacy systems and imported into Snowflake using Snowpipe. 
-- Analyzed and decomposed complex Oracle queries and translated into Snowflake Data Marts. 
-- Integrated Tableau Server deployments into a Terraform pipeline, enabling automated and consistent usage of multiple Tableau platforms.
-- Decomposed identity management from Reltio (tree-format) into medallion architecture in Snowflake, improving performance, data accessibility, and usability. 
+- Built Delta Lake marts in Databricks with Snowflake for sharing, saving $2K/month.
+- Migrated healthcare data systems from Oracle to Snowflake with near-real-time claims.
+- Created clinical dashboards to surface alerts for diabetes and obesity management.
+- Rewrote complex EMN Spark to simple Snowflake transforms.
+  - Eliminated need for costly EMN usage and allowed us to leverage Snowflake's compute capabilities.
 
 **Tech Stack:** Python, Java, SQL, Snowflake, Databricks, Oracle, AWS (EMR, Glue, Lambda, SQS, Terraform), dbt, Delta Lake
 
@@ -52,6 +53,7 @@ July 2019 – October 2021 | Foxboro, MA
 
 - Built a real-time transaction summary pipeline with API Gateway, Lambda, Redis. 
   - Project successfully handled 1000s of transactions per second with sub-second latency.
+  - Allowed us to seamlessly handle large usage surges for Sunday football games.
 - Spearheaded the design and deployment of a robust, scalable Snowflake data mart using a Data Vault architecture. 
   - Correlated multiple vending receipt sales and ticket sales data to provide target high-value customers.
   - Integrated Acxiom intelligence with rich customer data, building out a 360-degree customer view and "sales cheat sheets" for cold calls.
