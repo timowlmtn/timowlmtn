@@ -11,6 +11,7 @@ Greater Boston Area
 
 ## Professional Experience
 
+
 ### Azrius Analytics  
 **Solutions Architect**  
 March 2025 – Present | Remote  
@@ -18,6 +19,20 @@ March 2025 – Present | Remote
 - Created training materials and presentations for leveraging AI in traditional cloud data platforms
 - Reviewed existing supply chain analytics and data pipelines for integration with LLMs
 - Met with early adopters to gather feedback and iterate on the product.
+
+---
+
+### Capital Campaign Lead (Non-Profit Fundraising)
+** Capital Campaign Chair **  
+September 2023 – Present | Providence RI  
+
+- Organized volunteers and led a successful \$2.5 M capital campaign to raise money for capital improvements.
+- Direct point of contact for Klote & Associates, the fundraising consultant.
+- Initiated cold calls and personal meetings with major donors, securing \$1.2 M in pledges within the first month.
+- Managed the CRM database around the campaign, tracking concerns, and targeting members with stewards
+
+
+---
 
 
 ### Evolve Vacation Rentals  
