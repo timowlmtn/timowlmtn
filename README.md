@@ -20,16 +20,6 @@ March 2025 – Present | Remote
 - Reviewed existing supply chain analytics and data pipelines for integration with LLMs
 - Met with early adopters to gather feedback and iterate on the product.
 
----
-
-### Capital Campaign Lead (Non-Profit Fundraising)
-** Capital Campaign Chair **  
-September 2023 – Present | Providence RI  
-
-- Organized volunteers and led a successful \$2.5 M capital campaign to raise money for capital improvements.
-- Direct point of contact for Klote & Associates, the fundraising consultant.
-- Initiated cold calls and personal meetings with major donors, securing \$1.2 M in pledges within the first month.
-- Managed the CRM database around the campaign, tracking concerns, and targeting members with stewards
 
 
 ---
@@ -128,6 +118,22 @@ July 2002 – April 2018 | Cranston, RI
   - Allowed a very small team of analysts to support a large number of retailers with vastly different data profiles. 
 
 - **Tech Stack:** Java, C#, SQL, Oracle, SQL Server, SharePoint, Tableau, MS Analytical Services
+
+---
+
+## Volunteer Positions
+
+---
+
+### Capital Campaign Lead (Non-Profit Fundraising)
+** Capital Campaign Chair **  
+September 2023 – Present | Providence RI  
+
+- Organized volunteers and led a successful \$2.5 M capital campaign to raise money for capital improvements.
+- Direct point of contact for Klote & Associates, the fundraising consultant.
+- Initiated cold calls and personal meetings with major donors, securing \$1.2 M in pledges within the first month.
+- Managed the CRM database around the campaign, tracking concerns, and targeting members with stewards
+
 
 ---
 
