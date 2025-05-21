@@ -123,8 +123,6 @@ July 2002 – April 2018 | Cranston, RI
 
 ## Volunteer Positions
 
----
-
 ### Capital Campaign Lead (Non-Profit Fundraising)
 ** Capital Campaign Chair **  
 September 2023 – Present | Providence RI  
