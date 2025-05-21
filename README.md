@@ -13,7 +13,7 @@ Greater Boston Area
 
 
 ### Azrius Analytics  
-**Solutions Architect**  
+** AI Advisor (Part Time) **  
 March 2025 – Present | Remote  
 
 - Created training materials and presentations for leveraging AI in traditional cloud data platforms
