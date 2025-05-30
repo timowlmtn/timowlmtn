@@ -12,125 +12,86 @@ Greater Boston Area
 ## Professional Experience
 
 
-### Azrius Analytics  
-** AI Advisor (Part Time) **  
-March 2025 – Present | Remote  
+**Founder (Part-Time), Azrius Analytics**  
+March 2025 – Present | Remote
 
-- Created training materials and presentations for leveraging AI in traditional cloud data platforms
-- Reviewed existing supply chain analytics and data pipelines for integration with LLMs
-- Met with early adopters to gather feedback and iterate on the product.
+- Spearhead Azrius AI-agent platform for automating enterprise workflows and analytics  
+- Built a PyTorch + Kafka pipeline for real-time image classification at scale  
+- Developed 14-year SARIMA forecasting models on Iowa liquor-sales data to drive inventory planning  
+- Architected LLM-enhanced supply-chain analytics and end-to-end data pipelines for client integrations  
 
-
-
----
-
-
-### Evolve Vacation Rentals  
-**Principal Data Architect**  
-May 2023 – March 2025 | Remote
-
-- Migrated Salesforce Application to Javascript/Python  (Leaflet, OpenAPI, Snowflake) stack.
-  - Utilized Leaflet for applying price factor multipliers on a map to call the API and track changes.
-  - Implemented an OpenAPI stack Gunicorn with sub-second latency, returning fast queries immediately
-  - Rebuilt the price and forecast model asynchronously with RabbitMQ services on dbt and Pytorch.
-- Built a high-performance microservice with Gunicorn to adjust pricing via real-time geocode queries, enabling faster decision-making. 
-  - Revenue managers could manually specify prices and distribute to Airbnb and other rental services via API in real time. 
-- Streamed high-volume data into Postgres via AWS SQS for real-time pricing updates with public access and millisecond response times. 
-
-- Replaced Heroku-based architecture with a dbt/Terraform/ArgoCD pipeline.
-  - Resulted in a system where we could deploy infrastructure changes and code deployments in minutes rather than hours.
-- Implemented a partitioned daily import external table containing all Airbnb and VRBO listings, utilizing Snowflake's capabilities for efficient data management. 
-  - Handled hundreds of GBs historical pricing and availability data, improving data accessibility and analysis.
-  - Implemented guardrail policies to insulate against pricing shocks while maximizing revenue.
-
-**Key Achievements:**  
-- Increased revenue per booked night through targeted pricing and forecasting. 
-- Seamlessly migrated a Salesforce UI to a Open Source Javascript/Python stack, enabling fast releases to product needs.
-- Improved release velocity code quality via automated testing, merge checklists and test validation. 
-
-**Tech Stack:** Python, Typescript, Node.js, SQL, Snowflake, Salesforce, AWS (EKS, SQS), dbt, Spark, Jupyter, PyTorch, Metabase, Tableau
+**Tech Stack:** Python · Jupyter · PyTorch · Kafka · statsmodels (SARIMA) · PostgreSQL
 
 ---
 
-### Abacus Insights  
-**Senior Software Engineer**  
-October 2021 – April 2023 | Boston, MA
+**Principal Data Architect, Evolve Vacation Rentals**  
+May 2023 – Mar 2025 | Remote
 
-- Built Delta Lake marts in Databricks with Snowflake for sharing, saving over $2K/month.
-  - Applied Snowpipe to link DeltaTables from Databricks for cost and performance savings.
-  - Implemented an architecture for data sharing on the Snowflake market place for normalized CMS data.
-- Migrated healthcare data systems from Oracle to Snowflake with near-real-time claims.
-  - Leveraged zero-copy clones to minimize data movement and costs.
-  - Build foundational data marts for easy aggregation and reporting.
-- Created clinical dashboards to surface alerts for diabetes and obesity management.
-  - Aggregate LOINC and ICD codes against terminology codes to provide a normalized view of patient data.
-- Rewrote complex EMN Spark to simple Snowflake transforms for member segment dimensions.
-  - Eliminated need for costly EMN usage and allowed us to leverage Snowflake's compute capabilities.
+- Migrated Salesforce UI to an open-source JS/Python stack (Leaflet, OpenAPI, Snowflake) with sub-second API responses  
+- Engineered real-time pricing microservices (RabbitMQ, dbt, PyTorch) and geocode-driven adjustments via Gunicorn  
+- Streamed high-volume SQS data into PostgreSQL for millisecond updates and built partitioned Airbnb/VRBO tables in Snowflake  
+- Automated infrastructure with Terraform, dbt & ArgoCD, cutting deployment times from hours to minutes  
+- Optimized pricing and forecasting strategies, boosting revenue per booked night  
 
-**Tech Stack:** Python, Java, SQL, Snowflake, Databricks, Oracle, AWS (EMR, Glue, Lambda, SQS, Terraform), dbt, Delta Lake
+**Tech Stack:** Python · TypeScript · Node.js · SQL · Snowflake · AWS (EKS, SQS) · dbt · Spark · PyTorch · Metabase · Tableau
 
 ---
 
-### Kraft Analytics Group  
-**Data Architect**  
-July 2019 – October 2021 | Foxboro, MA
+**Senior Software Engineer, Abacus Insights**  
+Oct 2021 – Apr 2023 | Boston, MA
 
-- Built a real-time transaction summary pipeline with API Gateway, Lambda, Redis. 
-  - Project successfully handled 1000s of transactions per second with sub-second latency.
-  - Allowed us to seamlessly handle large usage surges for Sunday football games.
-- Spearheaded the design and deployment of a robust, scalable Snowflake data mart using a Data Vault architecture. 
-  - Correlated multiple vending receipt sales and ticket sales data to provide target high-value customers.
-  - Integrated Acxiom intelligence with rich customer data, building out a 360-degree customer view and "sales cheat sheets" for cold calls.
-- Implemented data governance on a SnapLogic pipeline and extended to the BitBucket pipeline deployment for automated testing and validation of ETL pipelines. 
-  - Turned an all day manual process into an automated point and click deployment.
+- Built Databricks Delta Lake marts with Snowpipe into Snowflake, cutting $2K+/mo in costs  
+- Migrated real-time claims pipeline from Oracle to Snowflake using zero-copy clones  
+- Architected normalized CMS data sharing via Snowflake Marketplace  
+- Developed clinical dashboards mapping LOINC/ICD codes to monitor diabetes & obesity  
+- Translated complex EMN Spark jobs into native Snowflake SQL, slashing compute spend  
 
-**Tech Stack:** Python, Java, SQL, Snowflake, AWS (API Gateway, Lambda, Redis), SnapLogic, Tableau
+**Tech Stack:** Python · Java · SQL · Snowflake · Databricks · Oracle · AWS (EMR, Glue, Lambda, SQS, Terraform) · dbt · Delta Lake
 
 ---
 
-### Virgin Pulse  
-**Architect Lead**  
-March 2018 – July 2019 | Providence, RI
+**Data Architect, Kraft Analytics Group**  
+Jul 2019 – Oct 2021 | Foxboro, MA
 
-- Replaced Birst with a custom analytics pipeline using Airflow, Python, Redshift.
-- Engineered a templated SQL application to integrate advanced SQL analytics easily across multiple customer data segments and reward rules.
-  - Resolved complex segment changes across slowly changing dimensions for insurance enrollment.
-- Led the migration of a legacy SQL Server data warehouse to a Redshift data mart, improving performance and reducing costs.
-  - Eliminated a three month reporting backlog using automation and self-service on Tableau
-  - Implemented continuous replication of SQL Server data to Redshift using AWS DMS.
-  - Successfully turned off the SQL server instance, avoiding scaling issues eliminating costs.
+- Built a sub-second real-time transaction pipeline (API Gateway, Lambda, Redis) handling thousands of TPS and Sunday-game surges  
+- Designed a Snowflake Data Vault mart unifying vending & ticket sales and integrated Acxiom for 360° customer profiles  
+- Automated SnapLogic & Bitbucket ETL governance and testing, transforming all-day manual deploys into one-click releases  
 
-**Tech Stack:** Python, SQL, Redshift, SQL Server, AWS (Redshift), Tableau, DOMO, Birst
+**Tech Stack:** Python · Java · SQL · Snowflake · AWS (API Gateway, Lambda, Redis) · SnapLogic · Tableau  
 
 ---
 
-### Retail Solutions Inc.  
-**Full Stack Software Engineer Lead / Manager**  
-July 2002 – April 2018 | Cranston, RI
+**Architect Lead, Virgin Pulse**  
+Mar 2018 – Jul 2019 | Providence, RI
 
-- Engineered a robust timezone-aware data tracking solution leveraging Oracle and Java. 
-  - Utilized detailed change tracking for push replication data sets to analytics engines.
-- Built a web-based reporting system with Java, Spring, and Oracle. 
-  - Developed a custom reporting engine to allow users to create and save report parameter templates
-  - Integrated processed templates with SQL generation to create regular deliverable reports and alerts
-- Leveraged and extended PL/SQL within a Talend infrastructure to create a unified reporting layer for supply chain metrics across 40 retailers. 
-  - Implemented automated data cleansing using PL/SQL, Talend, with custom user data defined in a web-based UI. 
-  - Allowed a very small team of analysts to support a large number of retailers with vastly different data profiles. 
+- Replaced Birst with an Airflow-driven Python pipeline on Redshift for end-to-end analytics  
+- Developed a templated SQL framework for multi-segment analytics and SCD handling in reward rules  
+- Migrated legacy SQL Server warehouse to Redshift via AWS DMS, eliminating a 3-month reporting backlog and decommissioning SQL Server  
 
-- **Tech Stack:** Java, C#, SQL, Oracle, SQL Server, SharePoint, Tableau, MS Analytical Services
+**Tech Stack:** Python · SQL · Airflow · Redshift · SQL Server · AWS DMS · Tableau · Domo  
+
+---
+
+**Full Stack Software Engineer Lead/Manager, Retail Solutions Inc.**  
+Jul 2002 – Apr 2018 | Cranston, RI
+
+- Designed a timezone‐aware change-tracking engine in Java/Oracle for push-replication analytics  
+- Developed a Spring/Java web reporting platform with customizable report-template engine and alerting  
+- Extended PL/SQL & Talend to unify supply-chain metrics across 40 retailers with automated data cleansing  
+
+**Tech Stack:** Java · C# · SQL (Oracle, SQL Server) · Talend · Spring · SharePoint · Tableau · MS Analysis Services  
 
 ---
 
 ## Volunteer Positions
 
-### Capital Campaign Lead (Non-Profit Fundraising)
-** Capital Campaign Chair **  
-September 2023 – Present | Providence RI  
+**Capital Campaign Chair**  
+Sep 2023 – Present | Providence, RI
 
-- Organized volunteers and led a successful \$2.5 M capital campaign to raise money for capital improvements.
-- Direct point of contact for Klote & Associates, the fundraising consultant.
-- Initiated cold calls and personal meetings with major donors, securing \$1.2 M in pledges within the first month.
-- Managed the CRM database around the campaign, tracking concerns, and targeting members with stewards
+- Directed volunteer team to raise \$2.5M for capital improvements  
+- Served as primary liaison to Klote & Associates fundraising consultants  
+- Secured \$1.2M in major-donor pledges through targeted outreach in month one  
+- Managed CRM to track donor engagement and steward personalized follow-up  
 
 
 ---
