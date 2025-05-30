@@ -123,9 +123,9 @@ Sep 2023 – Present | Providence, RI
 
 ## Education
 
-### University of Utah 
-  - Bachelors, Mathematics 
-  - Computational Science Master Program
+**University of Utah**  
+- B.A. in Mathematics, 1996  
+- Completed M.S. coursework in Mathematics (All but thesis), 1994-1996  
 
 ---
 
