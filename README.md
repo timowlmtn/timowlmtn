@@ -125,7 +125,7 @@ Sep 2023 – Present | Providence, RI
 
 **University of Utah**  
 - B.A. in Mathematics, 1996  
-- Completed M.S. coursework in Mathematics (All but thesis), 1994-1996  
+- Completed M.S. coursework in Computational Science (All but thesis), 1994-1996  
 
 ---
 
