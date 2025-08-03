@@ -23,7 +23,7 @@ _March 2025 – Present | Remote_
 - **Defined product roadmap & technical strategy**, iterating rapidly on user feedback to refine agent behaviors, improve accuracy, and drive early-adopter engagement.  
 
 
-**Tech Stack:** React · Python · Athropic · Terraform
+**Tech Stack:** React · Python · Anthropic · Terraform
 
 ---
 
