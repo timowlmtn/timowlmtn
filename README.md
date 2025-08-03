@@ -1,6 +1,6 @@
 # Timothy Burns
 
-“Customer-focused data architect with deep technical expertise, persuasive communication skills, and a proven record of building high-performing teams to drive scalable business impact.”
+“Architecting agentic AI that transforms raw data into harmonious, personalized living spaces.”
 
 timburnsowlmtn@gmail.com  
 (401) 954-1620  
