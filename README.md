@@ -12,15 +12,18 @@ Greater Boston Area
 ## Professional Experience
 
 
-**Founder (Part-Time), Azrius Analytics**  
-March 2025 – Present | Remote
+**Founder, Azrius Analytics**  
+_March 2025 – Present | Remote_
 
-- Spearhead Azrius AI-agent platform for automating enterprise workflows and analytics  
-- Built a PyTorch + Kafka pipeline for real-time image classification at scale  
-- Developed 14-year SARIMA forecasting models on Iowa liquor-sales data to drive inventory planning  
-- Architected LLM-enhanced supply-chain analytics and end-to-end data pipelines for client integrations  
+- **Architected an agentic AI platform** for end-to-end interior design project management, orchestrating tasks, timelines, and client communications with minimal human oversight.  
+- **Leveraged multiple LLMs** (e.g., Anthropic Claude, GPT-4) to build interoperable AI “agents” that coordinate seamlessly—delegating design research, vendor sourcing, budgeting, and scheduling.  
+- **Embedded demographic analytics & context-awareness**, delivering hyper-personalized design recommendations by modeling client style profiles, budget constraints, and space utilization data.  
+- **Engineered dynamic conversation and state-management structures**, enabling multi-turn chat interfaces that “remember” previous room images, client feedback, and task progress.  
+- **Integrated with MIT’s Nanda agentic-web framework**, deploying a distributed, scalable multi-agent architecture to boost throughput and reliability.  
+- **Defined product roadmap & technical strategy**, iterating rapidly on user feedback to refine agent behaviors, improve accuracy, and drive early-adopter engagement.  
 
-**Tech Stack:** Python · Jupyter · PyTorch · Kafka · statsmodels (SARIMA) · PostgreSQL
+
+**Tech Stack:** React · Python · Athropic · Terraform
 
 ---
 
