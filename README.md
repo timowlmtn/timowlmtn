@@ -1,6 +1,6 @@
 # Timothy Burns
 
-“Architecting agentic AI that transforms raw data into harmonious, personalized living spaces.”
+“Building agentic AI that transforms raw data into harmonious, personalized living spaces.”
 
 timburnsowlmtn@gmail.com  
 (401) 954-1620  
