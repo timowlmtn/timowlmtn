@@ -11,6 +11,20 @@ Greater Boston Area
 
 ## Professional Experience
 
+**Contract Cleanroom Engineer **, Warner Bros Discovery (WBD)
+_July 2025 – Present | Remote
+
+- **Engineered AWS Clean Rooms** infrastructure with Terraform, automating configured tables, analysis templates, and table associations for secure cross-account collaboration.
+- **Integrated Glue & S3** with Snowflake exports, enabling privacy-safe data ingestion pipelines and audience trait activation.
+- **Implemented analysis guardrails** (joinid handling, aggregation rules, row-count thresholds) to ensure compliance with privacy and governance standards.
+- **Designed IAM trust policies & cross-account roles**, enforcing least-privilege access between WBD and Amazon Publisher Cloud.
+- **Collaborated with APC, Warner Bros. Discovery, and legal team**s, aligning cleanroom workflows with activation, measurement, and compliance needs.
+
+Validated negative testing scenarios, stress-testing Clean Room query rules to prove robustness before production rollout.
+
+**Tech Stack:** AWS Clean Rooms · Terraform · Terragrunt · Snowflake · Glue · S3 · IAM
+
+---
 
 **Founder, Azrius Analytics**  
 _March 2025 – Present | Remote_
