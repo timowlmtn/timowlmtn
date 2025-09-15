@@ -18,7 +18,7 @@ _July 2025 – Present | Remote_
 - **Integrated Glue & S3** with Snowflake exports, enabling privacy-safe data ingestion pipelines and audience trait activation.
 - **Implemented analysis guardrails** (joinid handling, aggregation rules, row-count thresholds) to ensure compliance with privacy and governance standards.
 - **Designed IAM trust policies & cross-account roles**, enforcing least-privilege access between WBD and Amazon Publisher Cloud.
-- **Collaborated with APC, Warner Bros. Discovery, and legal team**s, aligning cleanroom workflows with activation, measurement, and compliance needs.
+- **Collaborated with APC, Warner Bros. Discovery, and legal teams**, aligning cleanroom workflows with activation, measurement, and compliance needs.
 
 Validated negative testing scenarios, stress-testing Clean Room query rules to prove robustness before production rollout.
 
