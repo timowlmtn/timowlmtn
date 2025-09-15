@@ -11,7 +11,7 @@ Greater Boston Area
 
 ## Professional Experience
 
-**Contract Cleanroom Engineer, Warner Bros Discovery (WBD)**
+**Contract Cleanroom Engineer, Warner Bros Discovery (WBD)**  
 _July 2025 – Present | Remote_
 
 - **Engineered AWS Clean Rooms** infrastructure with Terraform, automating configured tables, analysis templates, and table associations for secure cross-account collaboration.
