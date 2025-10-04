@@ -29,9 +29,10 @@ Validated negative testing scenarios, stress-testing Clean Room query rules to p
 **Founder, Azrius Analytics**  
 _March 2025 – Present | Remote_
 
-- **Architected an agentic AI platform** for end-to-end interior design project management, orchestrating tasks, timelines, and client communications with minimal human oversight.  
-- **Leveraged multiple LLMs** (e.g., Anthropic Claude, GPT-4) to build interoperable AI “agents” that coordinate seamlessly—delegating design research, vendor sourcing, budgeting, and scheduling.  
-- **Embedded demographic analytics & context-awareness**, delivering hyper-personalized design recommendations by modeling client style profiles, budget constraints, and space utilization data.  
+- **Presented Lightning Talks at Imagination in Actino and Boston AI Week** for AI enthusiasts and investors
+- **Architected an agentic AI platform** using AWS Bedrock, Lambda functions, Serverless UI, and Terraform resource management.  
+- **Leveraged multiple LLMs** (e.g., Anthropic Claude, AWS Titan Image, GPT-4) to build an AI system that transforms language into images, planning spreadsheets, and calendar events.  
+- **Developed data architecture for context awareness** using S3 and DynamoDB to capture user data and store securely using Cognito keys tied to an OpenID (Google) session 
 - **Engineered dynamic conversation and state-management structures**, enabling multi-turn chat interfaces that “remember” previous room images, client feedback, and task progress.  
 - **Integrated with MIT’s Nanda agentic-web framework**, deploying a distributed, scalable multi-agent architecture to boost throughput and reliability.  
 - **Defined product roadmap & technical strategy**, iterating rapidly on user feedback to refine agent behaviors, improve accuracy, and drive early-adopter engagement.  
@@ -57,11 +58,9 @@ May 2023 – Mar 2025 | Remote
 **Senior Software Engineer, Abacus Insights**  
 Oct 2021 – Apr 2023 | Boston, MA
 
-- Built Databricks Delta Lake marts with Snowpipe into Snowflake, cutting $2K+/mo in costs  
-- Migrated real-time claims pipeline from Oracle to Snowflake using zero-copy clones  
-- Architected normalized CMS data sharing via Snowflake Marketplace  
-- Developed clinical dashboards mapping LOINC/ICD codes to monitor diabetes & obesity  
-- Translated complex EMN Spark jobs into native Snowflake SQL, slashing compute spend  
+- Integrated Databricks and Snowflake using Delta Lake, dbt, and Airflow  
+- Built analytical dashboards for clinical and payer data marts based on open Medicare CMS data  
+- Integrated Reltio, AWS Spark, and Snowflake data warehouse engines for managing patient identity graphs  
 
 **Tech Stack:** Python · Java · SQL · Snowflake · Databricks · Oracle · AWS (EMR, Glue, Lambda, SQS, Terraform) · dbt · Delta Lake
 
@@ -93,7 +92,7 @@ Mar 2018 – Jul 2019 | Providence, RI
 Jul 2002 – Apr 2018 | Cranston, RI
 
 - Designed a timezone‐aware change-tracking engine in Java/Oracle for push-replication analytics  
-- Developed a Spring/Java web reporting platform with customizable report-template engine and alerting  
+- Developed a Spring/Java web reporting platform with a customizable report template engine and alerting  
 - Extended PL/SQL & Talend to unify supply-chain metrics across 40 retailers with automated data cleansing  
 
 **Tech Stack:** Java · C# · SQL (Oracle, SQL Server) · Talend · Spring · SharePoint · Tableau · MS Analysis Services  
@@ -103,7 +102,7 @@ Jul 2002 – Apr 2018 | Cranston, RI
 ## Volunteer Positions
 
 **Capital Campaign Chair**  
-Sep 2023 – Present | Providence, RI
+Sep 2023 – June 2025 | Providence, RI
 
 - Directed volunteer team to raise \$2.5M for capital improvements  
 - Served as primary liaison to Klote & Associates fundraising consultants  
