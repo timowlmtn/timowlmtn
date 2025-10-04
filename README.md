@@ -1,8 +1,7 @@
 # Timothy Burns
 
-📍 Greater Boston Area  
-📧 timburnsowlmtn@gmail.com | 📞 (401) 954-1620  
-🔗 [linkedin.com/in/tim-burns-5aa6141](https://linkedin.com/in/tim-burns-5aa6141)
+Email: timburnsowlmtn@gmail.com | (401) 954-1620  
+LinkedIn: [linkedin.com/in/tim-burns-5aa6141](https://linkedin.com/in/tim-burns-5aa6141)
 
 ---
 
@@ -15,7 +14,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 ## Professional Experience
 
 ### Contract Cleanroom Engineer  
-**Warner Bros. Discovery (WBD)** – Remote  
+**Warner Bros. Discovery (WBD)** – New York City, NY  
 **Jul 2025 – Present**
 
 - Engineered AWS Clean Rooms infrastructure using Terraform to automate configuration of tables, analysis templates, and cross-account associations.  
@@ -145,8 +144,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 ## Education
 
 **University of Utah**  
-- B.A. in Mathematics, 1996  
-- M.S. Coursework in Computational Science (ABD), 1994–1996
+- B.A. in Mathematics  
 
 ---
 
