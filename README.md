@@ -1,139 +1,144 @@
 # Timothy Burns
 
-“Building agentic AI that transforms raw data into harmonious, personalized living spaces.”
+📍 Greater Boston Area  
+📧 timburnsowlmtn@gmail.com | 📞 (401) 954-1620  
+🔗 [linkedin.com/in/tim-burns-5aa6141](https://linkedin.com/in/tim-burns-5aa6141)
 
-timburnsowlmtn@gmail.com  
-(401) 954-1620  
-Greater Boston Area  
-[linkedin.com/in/tim-burns-5aa6141](https://linkedin.com/in/tim-burns-5aa6141)
+---
+
+## Professional Summary
+
+Engineering leader specializing in AI, data platforms, and cloud-native architecture. Proven track record of delivering secure, scalable data products across AWS, Snowflake, and multi-agent systems. Experienced in founding startups, leading high-impact data teams, and architecting intelligent systems that drive measurable business outcomes.
 
 ---
 
 ## Professional Experience
 
-**Contract Cleanroom Engineer, Warner Bros Discovery (WBD)**  
-_July 2025 – Present | Remote_
+### Contract Cleanroom Engineer  
+**Warner Bros. Discovery (WBD)** – Remote  
+**Jul 2025 – Present**
 
-- **Engineered AWS Clean Rooms** infrastructure with Terraform, automating configured tables, analysis templates, and table associations for secure cross-account collaboration.
-- **Integrated Glue & S3** with Snowflake exports, enabling privacy-safe data ingestion pipelines and audience trait activation.
-- **Implemented analysis guardrails** (joinid handling, aggregation rules, row-count thresholds) to ensure compliance with privacy and governance standards.
-- **Designed IAM trust policies & cross-account roles**, enforcing least-privilege access between WBD and Amazon Publisher Cloud.
-- **Collaborated with APC, Warner Bros. Discovery, and legal teams**, aligning cleanroom workflows with activation, measurement, and compliance needs.
+- Engineered AWS Clean Rooms infrastructure using Terraform to automate configuration of tables, analysis templates, and cross-account associations.  
+- Integrated AWS Glue and S3 with Snowflake exports to enable privacy-safe ingestion pipelines and trait activation.  
+- Implemented join ID handling, aggregation rules, and row count thresholds to ensure compliance with privacy policies.  
+- Designed IAM trust policies and cross-account roles to enforce least-privilege access with Amazon Publisher Cloud.  
+- Collaborated with internal and external stakeholders (APC, legal, data science) to align cleanroom workflows with compliance and marketing use cases.
 
-Validated negative testing scenarios, stress-testing Clean Room query rules to prove robustness before production rollout.
-
-**Tech Stack:** AWS Clean Rooms · Terraform · Terragrunt · Snowflake · Glue · S3 · IAM
-
----
-
-**Founder, Azrius Analytics**  
-_March 2025 – Present | Remote_
-
-- **Presented Lightning Talks at Imagination in Actino and Boston AI Week** for AI enthusiasts and investors
-- **Architected an agentic AI platform** using AWS Bedrock, Lambda functions, Serverless UI, and Terraform resource management.  
-- **Leveraged multiple LLMs** (e.g., Anthropic Claude, AWS Titan Image, GPT-4) to build an AI system that transforms language into images, planning spreadsheets, and calendar events.  
-- **Developed data architecture for context awareness** using S3 and DynamoDB to capture user data and store securely using Cognito keys tied to an OpenID (Google) session 
-- **Engineered dynamic conversation and state-management structures**, enabling multi-turn chat interfaces that “remember” previous room images, client feedback, and task progress.  
-- **Integrated with MIT’s Nanda agentic-web framework**, deploying a distributed, scalable multi-agent architecture to boost throughput and reliability.  
-- **Defined product roadmap & technical strategy**, iterating rapidly on user feedback to refine agent behaviors, improve accuracy, and drive early-adopter engagement.  
-
-
-**Tech Stack:** React · Python · Anthropic · Terraform
+**Tech Stack:** AWS Clean Rooms, Terraform, Snowflake, Glue, S3, IAM
 
 ---
 
-**Principal Data Architect, Evolve Vacation Rentals**  
-May 2023 – Mar 2025 | Remote
+### Founder  
+**Azrius Analytics** – Remote  
+**Mar 2025 – Present**
 
-- Migrated Salesforce UI to an open-source JS/Python stack (Leaflet, OpenAPI, Snowflake) with sub-second API responses  
-- Engineered real-time pricing microservices (RabbitMQ, dbt, PyTorch) and geocode-driven adjustments via Gunicorn  
-- Streamed high-volume SQS data into PostgreSQL for millisecond updates and built partitioned Airbnb/VRBO tables in Snowflake  
-- Automated infrastructure with Terraform, dbt & ArgoCD, cutting deployment times from hours to minutes  
-- Optimized pricing and forecasting strategies, boosting revenue per booked night  
+- Developed an agentic AI platform using AWS Bedrock, Lambda, and serverless UI architecture.  
+- Integrated LLMs (Anthropic Claude, GPT-4, AWS Titan) to convert text inputs into actionable outputs (images, spreadsheets, events).  
+- Architected secure, user-aware data storage with Cognito-authenticated S3/DynamoDB.  
+- Built a dynamic, memory-aware chat interface with persistent state tracking for room design and task workflows.  
+- Deployed multi-agent system based on MIT’s Nanda framework to scale reliability and throughput.  
+- Defined product roadmap, led technical direction, and iterated rapidly on user feedback.
 
-**Tech Stack:** Python · TypeScript · Node.js · SQL · Snowflake · AWS (EKS, SQS) · dbt · Spark · PyTorch · Metabase · Tableau
-
----
-
-**Senior Software Engineer, Abacus Insights**  
-Oct 2021 – Apr 2023 | Boston, MA
-
-- Integrated Databricks and Snowflake using Delta Lake, dbt, and Airflow  
-- Built analytical dashboards for clinical and payer data marts based on open Medicare CMS data  
-- Integrated Reltio, AWS Spark, and Snowflake data warehouse engines for managing patient identity graphs  
-
-**Tech Stack:** Python · Java · SQL · Snowflake · Databricks · Oracle · AWS (EMR, Glue, Lambda, SQS, Terraform) · dbt · Delta Lake
+**Tech Stack:** React, Python, Anthropic Claude, AWS Bedrock, Terraform, Lambda
 
 ---
 
-**Data Architect, Kraft Analytics Group**  
-Jul 2019 – Oct 2021 | Foxboro, MA
+### Principal Data Architect  
+**Evolve Vacation Rentals** – Remote  
+**May 2023 – Mar 2025**
 
-- Built a sub-second real-time transaction pipeline (API Gateway, Lambda, Redis) handling thousands of TPS and Sunday-game surges  
-- Designed a Snowflake Data Vault mart unifying vending & ticket sales and integrated Acxiom for 360° customer profiles  
-- Automated SnapLogic & Bitbucket ETL governance and testing, transforming all-day manual deploys into one-click releases  
+- Migrated internal Salesforce UI to a Python/JavaScript-based stack with Leaflet and OpenAPI.  
+- Designed real-time pricing microservices using RabbitMQ, dbt, and PyTorch with geographic logic.  
+- Streamed SQS messages to PostgreSQL and created partitioned tables in Snowflake for Airbnb/VRBO data.  
+- Automated deployments via Terraform, ArgoCD, and dbt, reducing provisioning time by 80%.  
+- Drove pricing optimizations that increased revenue per booked night.
 
-**Tech Stack:** Python · Java · SQL · Snowflake · AWS (API Gateway, Lambda, Redis) · SnapLogic · Tableau  
-
----
-
-**Architect Lead, Virgin Pulse**  
-Mar 2018 – Jul 2019 | Providence, RI
-
-- Replaced Birst with an Airflow-driven Python pipeline on Redshift for end-to-end analytics  
-- Developed a templated SQL framework for multi-segment analytics and SCD handling in reward rules  
-- Migrated legacy SQL Server warehouse to Redshift via AWS DMS, eliminating a 3-month reporting backlog and decommissioning SQL Server  
-
-**Tech Stack:** Python · SQL · Airflow · Redshift · SQL Server · AWS DMS · Tableau · Domo  
+**Tech Stack:** Python, TypeScript, Node.js, Snowflake, AWS (EKS, SQS), dbt, Spark, Metabase, Tableau
 
 ---
 
-**Full Stack Software Engineer Lead/Manager, Retail Solutions Inc.**  
-Jul 2002 – Apr 2018 | Cranston, RI
+### Senior Software Engineer  
+**Abacus Insights** – Boston, MA  
+**Oct 2021 – Apr 2023**
 
-- Designed a timezone‐aware change-tracking engine in Java/Oracle for push-replication analytics  
-- Developed a Spring/Java web reporting platform with a customizable report template engine and alerting  
-- Extended PL/SQL & Talend to unify supply-chain metrics across 40 retailers with automated data cleansing  
+- Built clinical and payer data dashboards using Databricks, dbt, and Snowflake.  
+- Integrated Delta Lake architecture with Airflow for scalable ingestion pipelines.  
+- Managed patient identity graph using Reltio, Snowflake, and Spark.
 
-**Tech Stack:** Java · C# · SQL (Oracle, SQL Server) · Talend · Spring · SharePoint · Tableau · MS Analysis Services  
+**Tech Stack:** Python, Java, SQL, AWS (EMR, Glue, Lambda), dbt, Delta Lake, Oracle
 
 ---
 
-## Volunteer Positions
+### Data Architect  
+**Kraft Analytics Group** – Foxboro, MA  
+**Jul 2019 – Oct 2021**
 
-**Capital Campaign Chair**  
-Sep 2023 – June 2025 | Providence, RI
+- Created a real-time transaction pipeline (API Gateway, Lambda, Redis) with sub-second response times.  
+- Designed a Snowflake Data Vault model integrating vending and ticketing data.  
+- Automated ETL deployment using SnapLogic and Bitbucket for CI/CD.
 
-- Directed volunteer team to raise \$2.5M for capital improvements  
-- Served as primary liaison to Klote & Associates fundraising consultants  
-- Secured \$1.2M in major-donor pledges through targeted outreach in month one  
-- Managed CRM to track donor engagement and steward personalized follow-up  
+**Tech Stack:** Python, Java, Snowflake, AWS (Lambda, Redis), SnapLogic, Tableau
 
+---
+
+### Architect Lead  
+**Virgin Pulse** – Providence, RI  
+**Mar 2018 – Jul 2019**
+
+- Replaced Birst with Airflow-driven pipelines using Redshift and Python.  
+- Built templated SQL analytics frameworks and SCD handling for segmentation logic.  
+- Migrated legacy SQL Server warehouse to Redshift via AWS DMS, eliminating data backlog.
+
+**Tech Stack:** Python, SQL, Airflow, Redshift, AWS DMS, Tableau, Domo
+
+---
+
+### Lead Software Engineer / Manager  
+**Retail Solutions Inc.** – Cranston, RI  
+**Jul 2002 – Apr 2018**
+
+- Developed Java/Oracle-based change tracking and reporting platform.  
+- Built Spring-based web apps with report templating and alerting.  
+- Unified 40-retailer supply chain metrics with PL/SQL and Talend for automated cleansing.
+
+**Tech Stack:** Java, SQL (Oracle, SQL Server), Talend, Spring, Tableau, SharePoint
+
+---
+
+## Volunteer Experience
+
+### Capital Campaign Chair  
+**Providence, RI**  
+**Sep 2023 – Jun 2025**
+
+- Led a $2.5M fundraising campaign with volunteer and consultant coordination.  
+- Secured $1.2M in donor pledges through targeted outreach.  
+- Managed CRM platform for tracking engagement and follow-up.
 
 ---
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Professional (2021)
+- AWS Certified Solutions Architect – Professional (2021)  
 - Certified Scrum Master – Scrum Alliance (2017)
 
 ---
 
-## AI/ML Specializations
+## AI & Machine Learning Specializations
 
-- Machine Learning Data Lifecycle in Production (2023) 
-- Machine Learning in Production (2023)
-- Neural Networks and Deep Learning (2024)
-- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization (2024) 
+- Machine Learning in Production (2023)  
+- Machine Learning Data Lifecycle in Production (2023)  
+- Neural Networks and Deep Learning (2024)  
+- Hyperparameter Tuning and Optimization (2024)
 
 ---
 
 ## Publications
 
-- "Securing the Snowflake Integration on AWS" – *Snowflake, Jan 2023* 
-- "Three Literacy Tests for Hiring Data Engineers" – *Better Programming, Apr 2022* 
-- "Integrating Snowflake with Glue" – *Towards Data Science, Apr 2021* 
-- "Building a Successful Data Initiative" – *Towards Data Science, Oct 2020* 
+- "Securing the Snowflake Integration on AWS" – *Snowflake, Jan 2023*  
+- "Three Literacy Tests for Hiring Data Engineers" – *Better Programming, Apr 2022*  
+- "Integrating Snowflake with Glue" – *Towards Data Science, Apr 2021*  
+- "Building a Successful Data Initiative" – *Towards Data Science, Oct 2020*
 
 ---
 
@@ -141,32 +146,16 @@ Sep 2023 – June 2025 | Providence, RI
 
 **University of Utah**  
 - B.A. in Mathematics, 1996  
-- Completed M.S. coursework in Computational Science (All but thesis), 1994-1996  
+- M.S. Coursework in Computational Science (ABD), 1994–1996
 
 ---
 
-## Leadership Skills
+## Leadership & Strategic Skills
 
-- **Data Architecture & Strategy**  
-  - Designed and implemented robust data ingestion, ETL, and streaming pipelines to support real-time analytics and reporting.
-
-- **Budget & Resource Management**  
-  - Managed multi-cloud budgets and forecasting, optimizing resource allocation and achieving significant cost savings through rightsizing and reserved instances.
-
-- **Team Leadership & Mentorship**  
-  - Built and scaled high-performing data engineering teams, established best practices for code quality and data governance, and mentored engineers in career development.
-
-- **Stakeholder & Business Partnership**  
-  - Partnered with product, analytics, and executive stakeholders to translate business requirements into scalable data solutions that drive measurable value.
-
-- **Cross-Functional Collaboration**  
-  - Collaborated with DevOps, BI, and security teams to integrate data platforms into CI/CD pipelines and ensure compliance with regulatory and security standards.
-
-- **Agile Data Delivery**  
-  - Instituted agile methodologies, GitLab pipelines, automated testing, and sprint cadences to deliver reliable, high-impact data features on a weekly cycle.
-
-- **Operational Excellence**  
-  - Led data quality frameworks, monitoring, and blameless incident reviews to maintain continuous reliability and drive process improvements.
-
-- **Metrics-Driven Leadership**  
-  - Defined and tracked KPIs and dashboards to measure platform performance and business outcomes, guiding strategic decision-making.
+- **Data Architecture:** Built real-time, scalable pipelines supporting analytics and ML.  
+- **Cloud Cost Optimization:** Managed cloud budgets and achieved savings through reserved instances.  
+- **Team Building:** Mentored engineers and led data teams in Agile environments.  
+- **Business Alignment:** Translated stakeholder needs into technical strategy and product delivery.  
+- **Agile Delivery:** Established CI/CD pipelines, automated testing, and sprint cadences.  
+- **Compliance & Security:** Enforced governance and data privacy in regulated environments.  
+- **Platform Metrics:** Developed KPIs and dashboards for data platform and business insights.
