@@ -64,7 +64,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 - Built clinical and payer data dashboards using Databricks, dbt, and Snowflake.  
 - Integrated Delta Lake architecture with Airflow for scalable ingestion pipelines.  
 - Managed patient identity graph using Reltio, Snowflake, and Spark.
-- Implemented Medallion architecture using Bronze, Silver, Gold with Kafka streaming
+- Implemented Medallion architecture using Bronze, Silver, and Gold with Kafka streaming
 
 **Tech Stack:** Python, Java, SQL, AWS (EMR, Glue, Lambda), dbt, Delta Lake, Oracle
 
@@ -77,6 +77,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 - Created a real-time transaction pipeline (API Gateway, Lambda, Redis) with sub-second response times.  
 - Designed a Snowflake Data Vault model integrating vending and ticketing data.  
 - Automated ETL deployment using SnapLogic and Bitbucket for CI/CD.
+- Implemented Data Lake architecture with SnapLogic and AWS
 
 **Tech Stack:** Python, Java, Snowflake, AWS (Lambda, Redis), SnapLogic, Tableau
 
