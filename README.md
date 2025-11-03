@@ -35,7 +35,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 - Integrated LLMs (Anthropic Claude, GPT-4, AWS Titan) to convert text inputs into actionable outputs (images, spreadsheets, events).  
 - Architected secure, user-aware data storage with Cognito-authenticated S3/DynamoDB.  
 - Built a dynamic, memory-aware chat interface with persistent state tracking for room design and task workflows.  
-- Deployed multi-agent system based on MIT’s Nanda framework to scale reliability and throughput.  
+- Deployed a multi-agent system based on MIT’s Nanda framework to scale reliability and throughput.  
 - Defined product roadmap, led technical direction, and iterated rapidly on user feedback.
 
 **Tech Stack:** React, Python, Anthropic Claude, AWS Bedrock, Terraform, Lambda
@@ -51,6 +51,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 - Streamed SQS messages to PostgreSQL and created partitioned tables in Snowflake for Airbnb/VRBO data.  
 - Automated deployments via Terraform, ArgoCD, and dbt, reducing provisioning time by 80%.  
 - Drove pricing optimizations that increased revenue per booked night.
+- Implemented Mediallian Architecture Patterns for Bronze, Silver, and Gold with Snowpipe and dbt
 
 **Tech Stack:** Python, TypeScript, Node.js, Snowflake, AWS (EKS, SQS), dbt, Spark, Metabase, Tableau
 
@@ -63,6 +64,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 - Built clinical and payer data dashboards using Databricks, dbt, and Snowflake.  
 - Integrated Delta Lake architecture with Airflow for scalable ingestion pipelines.  
 - Managed patient identity graph using Reltio, Snowflake, and Spark.
+- Implemented Medallion architecture using Bronze, Silver, Gold with Kafka streaming
 
 **Tech Stack:** Python, Java, SQL, AWS (EMR, Glue, Lambda), dbt, Delta Lake, Oracle
 
