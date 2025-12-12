@@ -13,21 +13,22 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 
 ## Professional Experience
 
-### Contract Cleanroom Engineer  
+### Data Engineer (Cleanrooms)  
 **Warner Bros. Discovery (WBD)** – New York City, NY  
 **Jul 2025 – Present**
 
-- Engineered AWS Clean Rooms infrastructure using Terraform to automate configuration of tables, analysis templates, and cross-account associations.  
-- Integrated AWS Glue and S3 with Snowflake exports to enable privacy-safe ingestion pipelines and trait activation.  
-- Implemented join ID handling, aggregation rules, and row count thresholds to ensure compliance with privacy policies.  
-- Designed IAM trust policies and cross-account roles to enforce least-privilege access with Amazon Publisher Cloud.  
-- Collaborated with internal and external stakeholders (APC, legal, data science) to align cleanroom workflows with compliance and marketing use cases.
+- Architected and automated privacy-safe data cleanrooms across AWS Clean Rooms and Snowflake Samooha for major partners, including Amazon Publisher Cloud, OpenAP, Merkle, and OMG.
+- Built Terraform-driven provisioning for cleanroom tables, analysis templates, joins, thresholds, and cross-account associations, enabling repeatable and auditable deployments.
+- Designed a Snowflake cleanroom control plane (desired vs. actual state, hashed configs, locking) to support safe updates, drift detection, and multi-provider extensibility.
+- Implemented identity resolution and join strategies (household, MAID, email) with aggregation and minimum row-count enforcement to meet legal and privacy requirements.
+- Integrated AWS Glue, S3, and Snowflake to deliver compliant ingestion, activation, and measurement workflows.
 
-**Tech Stack:** AWS Clean Rooms, Terraform, Snowflake, Glue, S3, IAM
+
+**Tech Stack:** AWS Clean Rooms, Terraform, Snowflake, Glue, S3, IAM, SQL, Streamlit
 
 ---
 
-### Founder  
+### Solutions Architect  
 **Azrius Analytics** – Remote  
 **Mar 2025 – Present**
 
