@@ -13,14 +13,17 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 
 ## Professional Experience
 
-### Data Engineer (Cleanrooms)  
-**Warner Bros. Discovery (WBD)** – New York City, NY  
+### Data Engineer (Data Cleanrooms, ID Spine, Segmentation)  
+**Warner Bros. Discovery (WBD)** – Remote
 **Jul 2025 – Present**
 
-- Architected and automated privacy-safe data cleanrooms across AWS Clean Rooms and Snowflake Samooha for major partners, including Amazon Publisher Cloud, OpenAP, Merkle, and OMG.
-- Built Terraform-driven provisioning for cleanroom tables, analysis templates, joins, thresholds, and cross-account associations, enabling repeatable and auditable deployments.
-- Designed a Snowflake cleanroom control plane (desired vs. actual state, hashed configs, locking) to support safe updates, drift detection, and multi-provider extensibility.
-- Implemented identity resolution and join strategies (household, MAID, email) with aggregation and minimum row-count enforcement to meet legal and privacy requirements.
+- Architected and automated privacy-safe data cleanrooms across AWS Clean Rooms and Snowflake Samooha for major partners, including Amazon Publisher Cloud, OpenAP, Merkle, and OMG.  
+- Evaluated **experimentation frameworks (GrowthBook)** for cleanroom-based activations, assessing A/B testing on audience segments, ID spine matches, and activation strategies while respecting privacy constraints.  
+- Designed approaches for **measurement-on-activation**, enabling controlled comparisons of downstream outcomes without exposing raw user-level data.  
+- Built **cross-platform data pipelines** to share Databricks-produced datasets into cleanrooms using **Apache Iceberg** and Snowflake data integration, enabling interoperable analytics across lakehouse and warehouse environments.  
+- Built Terraform-driven provisioning for cleanroom tables, analysis templates, joins, thresholds, and cross-account associations, enabling repeatable and auditable deployments.  
+- Designed a Snowflake cleanroom control plane (desired vs. actual state, hashed configs, locking) to support safe updates, drift detection, and multi-provider extensibility.  
+- Implemented identity resolution and join strategies (household, MAID, email) with aggregation and minimum row-count enforcement to meet legal and privacy requirements.  
 - Integrated AWS Glue, S3, and Snowflake to deliver compliant ingestion, activation, and measurement workflows.
 
 
@@ -47,14 +50,16 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 **Evolve Vacation Rentals** – Remote  
 **May 2023 – Mar 2025**
 
-- Migrated internal Salesforce UI to a Python/JavaScript-based stack with Leaflet and OpenAPI.  
-- Designed real-time pricing microservices using RabbitMQ, dbt, and PyTorch with geographic logic.  
-- Streamed SQS messages to PostgreSQL and created partitioned tables in Snowflake for Airbnb/VRBO data.  
-- Automated deployments via Terraform, ArgoCD, and dbt, reducing provisioning time by 80%.  
-- Drove pricing optimizations that increased revenue per booked night.
-- Implemented Mediallian Architecture Patterns for Bronze, Silver, and Gold with Snowpipe and dbt
+- Led pricing experimentation focused on **occupancy lift and booking probability**, using **Bayesian A/B testing** to evaluate tradeoffs between price, fill rate, and profit under uncertainty.  
+- Designed inference frameworks to measure **expected profit via occupancy-weighted revenue**, enabling faster decisions than fixed-horizon tests.  
+- Partnered with pricing and revenue teams to operationalize experimental results into production pricing strategies, increasing **booked nights and total revenue**.  
+- Built real-time pricing and demand services incorporating geographic, seasonal, and market signals using Python, dbt, and PyTorch.  
+- Developed event-driven data pipelines streaming Airbnb and VRBO supply/demand signals from SQS into PostgreSQL and Snowflake with scalable partitioning.  
+- Implemented Medallion Architecture (Bronze/Silver/Gold) with Snowpipe and dbt to support experimentation, analytics, and forecasting workflows.  
+- Migrated internal Salesforce-based pricing workflows to a Python/TypeScript platform with OpenAPI services and Leaflet-powered spatial tooling.  
+- Automated infrastructure and data deployments with Terraform and ArgoCD, reducing environment provisioning time by ~80%.
 
-**Tech Stack:** Python, TypeScript, Node.js, Snowflake, AWS (EKS, SQS), dbt, Spark, Metabase, Tableau
+**Tech Stack:** Python, TypeScript, Node.js, Snowflake, AWS (EKS, SQS), dbt, Spark, PyTorch, Metabase, Tableau
 
 ---
 
