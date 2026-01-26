@@ -18,7 +18,6 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 **Jul 2025 – Present**
 
 - Architected and automated privacy-safe data cleanrooms across AWS Clean Rooms and Snowflake Samooha for major partners, including Amazon Publisher Cloud, OpenAP, Merkle, and OMG.  
-- Evaluated **experimentation frameworks (GrowthBook)** for cleanroom-based activations, assessing A/B testing on audience segments, ID spine matches, and activation strategies while respecting privacy constraints.  
 - Designed approaches for **measurement-on-activation**, enabling controlled comparisons of downstream outcomes without exposing raw user-level data.  
 - Built **cross-platform data pipelines** to share Databricks-produced datasets into cleanrooms using **Apache Iceberg** and Snowflake data integration, enabling interoperable analytics across lakehouse and warehouse environments.  
 - Built Terraform-driven provisioning for cleanroom tables, analysis templates, joins, thresholds, and cross-account associations, enabling repeatable and auditable deployments.  
