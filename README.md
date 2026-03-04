@@ -22,14 +22,11 @@ and building complete products that leverage modern data platforms.
 **Warner Bros. Discovery (WBD)** – Remote
 **Jul 2025 – Present**
 
-- Architected and automated privacy-safe data cleanrooms across AWS Clean Rooms and Snowflake Samooha for major partners, including Amazon Publisher Cloud, OpenAP, Merkle, and OMG.  
-- Designed approaches for **measurement-on-activation**, enabling controlled comparisons of downstream outcomes without exposing raw user-level data.  
-- Built **cross-platform data pipelines** to share Databricks-produced datasets into cleanrooms using **Apache Iceberg** and Snowflake data integration, enabling interoperable analytics across lakehouse and warehouse environments.  
+- Architected, implemented, and deployed **shared data lakehouse** of ELT and privacy data cleanrooms between **Snowflake, AWS, and Databricks**
+- Build and deployed **Streamlit UI** for managing cleanrooms for privacy data exchange and ad impression services
+- Automated CICD Terraform processes around **Databricks,** **Apache Iceberg** and Snowflake data integration, enabling interoperable analytics across lakehouse and warehouse environments.  
 - Built Terraform-driven provisioning for cleanroom tables, analysis templates, joins, thresholds, and cross-account associations, enabling repeatable and auditable deployments.  
-- Designed a Snowflake cleanroom control plane (desired vs. actual state, hashed configs, locking) to support safe updates, drift detection, and multi-provider extensibility.  
 - Implemented identity resolution and join strategies (household, MAID, email) with aggregation and minimum row-count enforcement to meet legal and privacy requirements.  
-- Integrated AWS Glue, S3, and Snowflake to deliver compliant ingestion, activation, and measurement workflows.
-
 
 **Tech Stack:** AWS Clean Rooms, Terraform, Snowflake, Glue, S3, IAM, SQL, Streamlit
 
