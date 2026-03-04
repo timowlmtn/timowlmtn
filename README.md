@@ -11,8 +11,8 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 
 Proven track record of delivering data lakehouse and generative AI solutions. 
 
-Experienced in founding startups, leading high-impact data teams, 
-and building complete products that leverage modern data platforms.
+Experienced data lakehouse architecture, leading high-impact data teams, 
+and full-stack development.
 
 ---
 
