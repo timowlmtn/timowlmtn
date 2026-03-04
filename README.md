@@ -31,15 +31,12 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 ---
 
 ### Solutions Architect  
-**Azrius Analytics** – Remote  
+**Azrius Analytics**  
 **Mar 2025 – Present**
 
-- Developed an agentic AI platform using AWS Bedrock, Lambda, and serverless UI architecture.  
-- Integrated LLMs (Anthropic Claude, GPT-4, AWS Titan) to convert text inputs into actionable outputs (images, spreadsheets, events).  
-- Architected secure, user-aware data storage with Cognito-authenticated S3/DynamoDB.  
-- Built a dynamic, memory-aware chat interface with persistent state tracking for room design and task workflows.  
-- Deployed a multi-agent system based on MIT’s Nanda framework to scale reliability and throughput.  
-- Defined product roadmap, led technical direction, and iterated rapidly on user feedback.
+A boutique custom data product service based on AWS and Generative AI.
+
+- Built custom software for real estate and interior design customers to leverage Generative AI to maximize interior and exterior aesthetics via guided design
 
 **Tech Stack:** React, Python, Anthropic Claude, AWS Bedrock, Terraform, Lambda
 
@@ -58,7 +55,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 - Migrated internal Salesforce-based pricing workflows to a Python/TypeScript platform with OpenAPI services and Leaflet-powered spatial tooling.  
 - Automated infrastructure and data deployments with Terraform and ArgoCD, reducing environment provisioning time by ~80%.
 
-**Tech Stack:** Python, TypeScript, Node.js, Snowflake, AWS (EKS, SQS), dbt, Spark, PyTorch, Metabase, Tableau
+**Tech Stack:** Snowflake, dbt, PySpark, Node.js, Salesforce Lightning, RabbitMQ
 
 ---
 
@@ -71,7 +68,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 - Managed patient identity graph using Reltio, Snowflake, and Spark.
 - Implemented Medallion architecture using Bronze, Silver, and Gold with Kafka streaming
 
-**Tech Stack:** Python, Java, SQL, AWS (EMR, Glue, Lambda), dbt, Delta Lake, Oracle
+**Tech Stack:** Snowflake, Databricks, Python, GitOps
 
 ---
 
@@ -126,6 +123,7 @@ Engineering leader specializing in AI, data platforms, and cloud-native architec
 
 ## Certifications
 
+- Databricks Architect (2026)
 - AWS Certified Solutions Architect – Professional (2021)  
 - Certified Scrum Master – Scrum Alliance (2017)
 
