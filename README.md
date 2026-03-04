@@ -8,10 +8,9 @@ LinkedIn: [linkedin.com/in/tim-burns-5aa6141](https://linkedin.com/in/tim-burns-
 ## Professional Summary
 
 Experienced data lakehouse architect, leading high-impact data teams, 
-and full-stack development.
+machine learning, and full-stack development.
 
 Proven track record of delivering data lakehouse and generative AI solutions. 
-
 
 ---
 
@@ -116,7 +115,7 @@ A boutique custom data product service based on AWS and Generative AI.
 
 ## Certifications
 
-- Databricks Architect (2026)
+- Databricks Fundamentals (2026)
 - AWS Certified Solutions Architect – Professional (2021)  
 - Certified Scrum Master – Scrum Alliance (2017)
 
