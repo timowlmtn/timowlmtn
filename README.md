@@ -94,7 +94,8 @@ A boutique custom data product service based on AWS and Generative AI.
 **Virgin Pulse** – Providence, RI  
 **Mar 2018 – Jul 2019**
 
-- Replaced Birst with Airflow-driven pipelines using Redshift and Python.  
+- Implemented rewards data marts for 300+ insurance companies with changing plans and segments for SCD Redshift warehouse.
+- Architected, planned, and migrated operational big health data from an on premise SQL Server system to AWS Redshift
 - Built templated SQL analytics frameworks and SCD handling for segmentation logic.  
 - Migrated legacy SQL Server warehouse to Redshift via AWS DMS, eliminating data backlog.
 
