@@ -7,12 +7,11 @@ LinkedIn: [linkedin.com/in/tim-burns-5aa6141](https://linkedin.com/in/tim-burns-
 
 ## Professional Summary
 
-Engineering leader specializing in AI, data platforms, and cloud-native architecture. 
+Experienced data lakehouse architect, leading high-impact data teams, 
+and full-stack development.
 
 Proven track record of delivering data lakehouse and generative AI solutions. 
 
-Experienced data lakehouse architecture, leading high-impact data teams, 
-and full-stack development.
 
 ---
 
