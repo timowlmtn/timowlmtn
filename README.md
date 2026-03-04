@@ -7,7 +7,12 @@ LinkedIn: [linkedin.com/in/tim-burns-5aa6141](https://linkedin.com/in/tim-burns-
 
 ## Professional Summary
 
-Engineering leader specializing in AI, data platforms, and cloud-native architecture. Proven track record of delivering secure, scalable data products across AWS, Snowflake, and multi-agent systems. Experienced in founding startups, leading high-impact data teams, and architecting intelligent systems that drive measurable business outcomes.
+Engineering leader specializing in AI, data platforms, and cloud-native architecture. 
+
+Proven track record of delivering data lakehouse and generative AI solutions. 
+
+Experienced in founding startups, leading high-impact data teams, 
+and building complete products that leverage modern data platforms.
 
 ---
 
@@ -97,27 +102,18 @@ A boutique custom data product service based on AWS and Generative AI.
 
 ---
 
-### Lead Software Engineer / Manager  
+### Senior Manager / Software Engineer Lead 
 **Retail Solutions Inc.** – Cranston, RI  
 **Jul 2002 – Apr 2018**
 
+- Managed a team of full-stack engineers focused on building and deploying consumer-facing SAAS tools
+- Built backend code for event-based synchronization between Oracle, SQL Server, and Analytical Services
 - Developed Java/Oracle-based change tracking and reporting platform.  
 - Built Spring-based web apps with report templating and alerting.  
 - Unified 40-retailer supply chain metrics with PL/SQL and Talend for automated cleansing.
 
 **Tech Stack:** Java, SQL (Oracle, SQL Server), Talend, Spring, Tableau, SharePoint
 
----
-
-## Volunteer Experience
-
-### Capital Campaign Chair  
-**Providence, RI**  
-**Sep 2023 – Jun 2025**
-
-- Led a $2.5M fundraising campaign with volunteer and consultant coordination.  
-- Secured $1.2M in donor pledges through targeted outreach.  
-- Managed CRM platform for tracking engagement and follow-up.
 
 ---
 
