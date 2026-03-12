@@ -63,12 +63,12 @@ A boutique custom data product service based on AWS and Generative AI.
 **Abacus Insights** – Boston, MA  
 **Oct 2021 – Apr 2023**
 
-- Built clinical and payer data dashboards using Databricks, dbt, and Snowflake.  
-- Integrated Delta Lake architecture with Airflow for scalable ingestion pipelines.  
-- Managed patient identity graph using Reltio, Snowflake, and Spark.
-- Implemented Medallion architecture using Bronze, Silver, and Gold with Kafka streaming
+- Designed and implemented a **payer C360 longitudinal patient record** platform integrating clinical, claims, and provider data for BCBSMA and Cambia Health.  
+- Modeled clinical datasets using **FHIR-aligned entities (ENCOUNTER, ORDER, OBSERVATION)** and integrated them with claims and provider marts to enable a **complete longitudinal member care history**.  
+- Built scalable data pipelines on **Databricks and Snowflake**, implementing **Delta Lake Medallion architecture** and orchestrating ingestion via **Airflow and Kafka**.  
+- Implemented **patient identity graph management using Reltio MDM**, linking member, clinical, and claims identities across payer systems.
 
-**Tech Stack:** Snowflake, Databricks, Python, GitOps
+**Tech Stack:** Snowflake, Databricks, Spark, Python, Airflow, Kafka, dbt, Delta Lake, Reltio
 
 ---
 
