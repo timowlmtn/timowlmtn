@@ -102,13 +102,14 @@ A boutique custom data product service based on AWS and Generative AI.
 **Retail Solutions Inc.** – Cranston, RI  
 **Jul 2002 – Apr 2018**
 
-- Managed a team of full-stack engineers focused on building and deploying consumer-facing SAAS tools
-- Built backend code for event-based synchronization between Oracle, SQL Server, and Analytical Services
-- Developed Java/Oracle-based change tracking and reporting platform.  
-- Built Spring-based web apps with report templating and alerting.  
-- Unified 40-retailer supply chain metrics with PL/SQL and Talend for automated cleansing.
+- Joined as an early engineer when the company had <20 employees and helped scale the platform to support a global retail analytics network serving 300+ enterprise customers.
+- Led a team of full-stack engineers building SaaS products that delivered daily alerts and operational insights on out-of-stock events, pricing compliance, and category performance across major retailers.
+- Architected event-driven data pipelines synchronizing Oracle, SQL Server, and analytical platforms to power near-real-time supply-chain intelligence.
+- Designed and built a Java/Spring + Oracle change-tracking platform that automated retailer data ingestion, auditability, and reporting.
+- Unified data feeds from 40+ retailers worldwide, building PL/SQL and Talend pipelines for normalization, quality enforcement, and analytics delivery.
+- Delivered automated reporting, templated dashboards, and alerting workflows used by CPG brands to detect lost sales and pricing anomalies at scale.
 
-**Tech Stack:** Java, SQL (Oracle, SQL Server), Talend, Spring, Tableau, SharePoint
+**Tech Stack:** Java, Spring, Oracle PL/SQL, SQL Server, Talend, Tableau, SharePoint
 
 
 ---
