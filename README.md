@@ -106,8 +106,7 @@ A boutique custom data product service based on AWS and Generative AI.
 - Led a team of full-stack engineers building SaaS products that delivered daily alerts and operational insights on out-of-stock events, pricing compliance, and category performance across major retailers.
 - Architected event-driven data pipelines synchronizing Oracle, SQL Server, and analytical platforms to power near-real-time supply-chain intelligence.
 - Designed and built a Java/Spring + Oracle change-tracking platform that automated retailer data ingestion, auditability, and reporting.
-- Unified data feeds from 40+ retailers worldwide, building PL/SQL and Talend pipelines for normalization, quality enforcement, and analytics delivery.
-- Delivered automated reporting, templated dashboards, and alerting workflows used by CPG brands to detect lost sales and pricing anomalies at scale.
+- Unified data feeds from 40+ retailers worldwide, building PL/SQL and Talend pipelines for normalization, quality enforcement, and analytics delivery.- Delivered automated reporting, templated dashboards, and alerting workflows used by CPG brands to detect lost sales and pricing anomalies at scale.
 
 **Tech Stack:** Java, Spring, Oracle PL/SQL, SQL Server, Talend, Tableau, SharePoint
 
