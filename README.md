@@ -28,17 +28,6 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 
 **Tech Stack:** AWS Clean Rooms, Terraform, Snowflake, Glue, S3, IAM, SQL, Streamlit
 
----
-
-### Solutions Architect  
-**Azrius Analytics**  
-**Mar 2025 – Present**
-
-A boutique custom data product service based on AWS and Generative AI.
-
-- Built custom software for real estate and interior design customers to leverage Generative AI to maximize interior and exterior aesthetics via guided design
-
-**Tech Stack:** React, Python, Anthropic Claude, AWS Bedrock, Terraform, Lambda
 
 ---
 
