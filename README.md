@@ -16,9 +16,15 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 
 ## Professional Experience
 
+### Data Architect ###
+**Caylent** -- Remote
+**Apr 2026 - present**
+
+- Coming soon!
+
 ### Data Engineer (Data Cleanrooms, ID Spine, Segmentation)  
 **Warner Bros. Discovery (WBD)** – Remote
-**Jul 2025 – Present**
+**Jul 2025 – Mar 2026**
 
 - Architected, implemented, and deployed **shared data lakehouse** of ELT and privacy data cleanrooms between **Snowflake, AWS, and Databricks**
 - Build and deployed **Streamlit UI** for managing cleanrooms for privacy data exchange and ad impression services
