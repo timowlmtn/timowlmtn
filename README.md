@@ -20,7 +20,9 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 **Caylent** -- Remote
 **Apr 2026 - present**
 
-- Coming soon!
+At Caylent, I help customers modernize their complex data systems to enable AI, reduce costs, and improve effectiveness.  
+
+My expertise is in large-scale data systems and knowledge-structure systems for AI, including OpenSearch, DocumentDB, Postgres, data lakehouses, and Snowflake.
 
 ### Data Engineer (Data Cleanrooms, ID Spine, Segmentation)  
 **Warner Bros. Discovery (WBD)** – Remote
