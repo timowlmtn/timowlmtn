@@ -114,8 +114,10 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 
 ## Certifications
 
+- Claude Certified Architect Professional (2026) 
 - Databricks Fundamentals (2026)
 - AWS Certified Solutions Architect – Professional (2021)  
+- AWS Certified Solutions Architect - Associate (2026)
 - Certified Scrum Master – Scrum Alliance (2017)
 
 ---
