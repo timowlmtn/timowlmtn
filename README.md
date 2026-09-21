@@ -20,9 +20,11 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 **Caylent** -- Remote
 **Apr 2026 - present**
 
-At Caylent, I help customers modernize their complex data systems to enable AI, reduce costs, and improve effectiveness.  
+- Led a database performance and rightsizing assessment for Tyler Technologies' correctional-facility platform, analyzing Aurora/RDS MySQL capacity and cost drivers on a legacy PHP/MySQL system.
+- Directed a SQL Server → Aurora PostgreSQL migration assessment for MeridianLink using Caylent's evo-compass methodology, standing up AWS DMS Schema Conversion infrastructure (VPC, Secrets Manager, IAM).
+- Architected a MongoDB Atlas → Amazon DocumentDB + OpenSearch migration for a multi-tenant B2B commerce platform, including a Streamlit cost-control app for boto3-driven AWS cost discovery and comparison.
 
-My expertise is in large-scale data systems and knowledge-structure systems for AI, including OpenSearch, DocumentDB, Postgres, data lakehouses, and Snowflake.
+**Tech Stack:** AWS (RDS/Aurora, DMS, DocumentDB, OpenSearch, S3, IAM, Secrets Manager), Terraform, Python, MongoDB, PostgreSQL, MySQL, Streamlit
 
 ### Data Engineer (Data Cleanrooms, ID Spine, Segmentation)  
 **Warner Bros. Discovery (WBD)** – Remote
