@@ -20,8 +20,8 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 **Caylent** -- Remote
 **Apr 2026 - present**
 
-- Led a database performance and rightsizing assessment for Tyler Technologies' correctional-facility platform, analyzing Aurora/RDS MySQL capacity and cost drivers on a legacy PHP/MySQL system.
-- Directed a SQL Server → Aurora PostgreSQL migration assessment for MeridianLink using Caylent's evo-compass methodology, standing up AWS DMS Schema Conversion infrastructure (VPC, Secrets Manager, IAM).
+- Led a database performance and rightsizing assessment, analyzing Aurora/RDS MySQL capacity and cost drivers on a legacy PHP/MySQL system.
+- Directed a SQL Server → Aurora PostgreSQL migration assessment using Caylent's evo-compass methodology, standing up AWS DMS Schema Conversion infrastructure (VPC, Secrets Manager, IAM).
 - Architected a MongoDB Atlas → Amazon DocumentDB + OpenSearch migration for a multi-tenant B2B commerce platform, including a Streamlit cost-control app for boto3-driven AWS cost discovery and comparison.
 
 **Tech Stack:** AWS (RDS/Aurora, DMS, DocumentDB, OpenSearch, S3, IAM, Secrets Manager), Terraform, Python, MongoDB, PostgreSQL, MySQL, Streamlit
