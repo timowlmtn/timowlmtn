@@ -133,10 +133,12 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 
 ## Publications
 
-- "Securing the Snowflake Integration on AWS" – *Snowflake, Jan 2023*  
-- "Three Literacy Tests for Hiring Data Engineers" – *Better Programming, Apr 2022*  
-- "Integrating Snowflake with Glue" – *Towards Data Science, Apr 2021*  
-- "Building a Successful Data Initiative" – *Towards Data Science, Oct 2020*
+- [The Bard's Guide to RAG (2026)](https://www.linkedin.com/pulse/bards-guide-rag-tim-burns-tpivc)
+- [Organize Role-Based Access in Snowflake using Stored Procedures and Question-Driven Views (2021)](https://medium.com/snowflake/organize-role-based-access-in-snowflake-using-stored-procedures-and-question-driven-views-33354b6df41d?sk=58a948b98f79573b2b5e4268092824ca)  
+- [Create a Baseline Authentication Infrastructure with Snowflake using Stored Procedures and Metabase (2021)](https://medium.com/snowflake/create-a-baseline-authentication-infrastructure-with-snowflake-using-stored-procedures-and-metabase-5bda7f30c543?sk=4c43147e715728c896656c7348edeb97)
+- [Three Literacy Tests for Hiring Data Engineers" – *Better Programming, Apr 2022](https://medium.com/better-programming/3-literacy-tests-for-hiring-data-engineers-2d700075143f?sk=f9ab598f4282cedd4ff561f1d5ac08a9) 
+- ["Integrating Snowflake with Glue" – *Towards Data Science, Apr 2021*](https://medium.com/data-science/integrating-snowflake-with-glue-c00a1e25335c?sk=d83df1f3f23d2b785f69ce356f67f86f)  
+- ["Building a Successful Data Initiative" – *Towards Data Science, Oct 2020*](https://medium.com/data-science/building-a-succesful-data-initiative-c04725b3a70?sk=d31c46f8e0d87e51bb25a349a8a7d497)
 
 ---
 
