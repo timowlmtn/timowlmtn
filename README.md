@@ -133,7 +133,7 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 
 ## Publications
 
-- [What Would André Bazin Make of AI Slop?](https://www.linkedin.com/pulse/what-ai-can-imitate-makes-art-human-shantha-mohan-ph-d--zs2wc/?trackingId=iBXBiWM7TzOFCZJJU4YDmw%3D%3D)
+- [What Would André Bazin Make of AI Slop? (2026)](https://www.linkedin.com/pulse/what-ai-can-imitate-makes-art-human-shantha-mohan-ph-d--zs2wc/?trackingId=iBXBiWM7TzOFCZJJU4YDmw%3D%3D)
 - [The Bard's Guide to RAG (2026)](https://www.linkedin.com/pulse/bards-guide-rag-tim-burns-tpivc)
 - [Organize Role-Based Access in Snowflake using Stored Procedures and Question-Driven Views (2021)](https://medium.com/snowflake/organize-role-based-access-in-snowflake-using-stored-procedures-and-question-driven-views-33354b6df41d?sk=58a948b98f79573b2b5e4268092824ca)  
 - [Create a Baseline Authentication Infrastructure with Snowflake using Stored Procedures and Metabase (2021)](https://medium.com/snowflake/create-a-baseline-authentication-infrastructure-with-snowflake-using-stored-procedures-and-metabase-5bda7f30c543?sk=4c43147e715728c896656c7348edeb97)
