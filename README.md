@@ -16,7 +16,7 @@ Proven track record of delivering data lakehouse and generative AI solutions.
 
 ## Professional Experience
 
-### Data Architect ###
+### Senior Data Architect ###
 **Caylent** -- Remote
 **Apr 2026 - present**
 
